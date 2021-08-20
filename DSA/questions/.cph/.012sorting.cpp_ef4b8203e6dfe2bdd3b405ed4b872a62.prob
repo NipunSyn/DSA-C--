@@ -1,0 +1,1 @@
+{"name":"Local: 012sorting","url":"e:\\DSA C++\\DSA\\questions\\012sorting.cpp","tests":[{"id":1629467428919,"input":"5\n2 1 0 1 0","output":"0 0 1 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA C++\\DSA\\questions\\012sorting.cpp","group":"local","local":true}
