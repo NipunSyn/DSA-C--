@@ -1,0 +1,1 @@
+{"name":"Local: maxSubarraySum","url":"e:\\DSA C++\\DSA\\questions\\maxSubarraySum.cpp","tests":[{"id":1629479596046,"input":"8\n-2 -3 4 -1 -2 1 5 -3","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA C++\\DSA\\questions\\maxSubarraySum.cpp","group":"local","local":true}
